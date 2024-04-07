@@ -1,2 +1,2 @@
-# Base-de-datos-escuela-del-futuro
-Repositorio donde subamos las actividades realizadas en el curso de Base de Datos de Escuela de programación de la Casa del Futuro en el mes de marzo, abril y mayo del año 2024
+
+![banner](https://github.com/Ivanna49/Base-de-datos-escuela-del-futuro/assets/109434696/749c82f1-ec64-4d6b-b32b-6d1ecda3d45e)
